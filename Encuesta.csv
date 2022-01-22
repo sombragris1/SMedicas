@@ -1,0 +1,238 @@
+Sexo;Distancia_Palma_D;Distancia_Palma_ND;Escritura;Pulso;Aplaude;Ejercicio;Fuma;Estatura;Edad
+Femenino;18.5;18;Derecho;92;Izquierdo;A veces;Nunca;173;18
+Masculino;19.5;20.5;Izquierdo;104;Izquierdo;Nunca;Regularmente;177.8;18
+Masculino;18;13.3;Derecho;87;Ninguno;Nunca;Ocasionalmente;NA;17
+Masculino;18.8;18.9;Derecho;NA;Ninguno;Nunca;Nunca;160;20
+Masculino;20;20;Derecho;35;Derecho;A veces;Nunca;165;24
+Femenino;18;17.7;Derecho;64;Derecho;A veces;Nunca;172.72;21
+Masculino;17.7;17.7;Derecho;83;Derecho;Con frecuencia;Nunca;182.88;19
+Femenino;17;17.3;Derecho;74;Derecho;Con frecuencia;Nunca;157;36
+Masculino;20;19.5;Derecho;72;Derecho;A veces;Nunca;175;19
+Masculino;18.5;18.5;Derecho;90;Derecho;A veces;Nunca;167;22
+Femenino;17;17.2;Derecho;80;Derecho;Con frecuencia;Nunca;156.2;29
+Masculino;21;21;Derecho;68;Izquierdo;Con frecuencia;Nunca;NA;18
+Femenino;16;16;Derecho;NA;Derecho;A veces;Nunca;155;19
+Femenino;19.5;20.2;Derecho;66;Ninguno;A veces;Nunca;155;18
+Masculino;16;15.5;Derecho;60;Derecho;A veces;Nunca;NA;17
+Femenino;17.5;17;Derecho;NA;Derecho;Con frecuencia;Nunca;156;17
+Femenino;18;18;Derecho;89;Ninguno;Con frecuencia;Nunca;157;19
+Masculino;19.4;19.2;Izquierdo;74;Derecho;A veces;Nunca;182.88;18
+Masculino;20.5;20.5;Derecho;NA;Izquierdo;A veces;Nunca;190.5;20
+Masculino;21;20.9;Derecho;78;Derecho;Con frecuencia;Nunca;177;18
+Masculino;21.5;22;Derecho;72;Izquierdo;Con frecuencia;Nunca;190.5;18
+Masculino;20.1;20.7;Derecho;72;Derecho;Con frecuencia;Nunca;180.34;18
+Masculino;18.5;18;Derecho;64;Derecho;Con frecuencia;Nunca;180.34;18
+Masculino;21.5;21.2;Derecho;62;Derecho;A veces;Nunca;184;18
+Femenino;17;17.5;Derecho;64;Izquierdo;A veces;Nunca;NA;19
+Masculino;18.5;18.5;Derecho;90;Ninguno;A veces;Nunca;NA;18
+Masculino;21;20.7;Derecho;90;Derecho;A veces;Nunca;172.72;18
+Masculino;20.8;21.4;Derecho;62;Ninguno;Con frecuencia;Nunca;175.26;18
+Masculino;17.8;17.8;Derecho;76;Ninguno;Con frecuencia;Nunca;NA;22
+Masculino;19.5;19.5;Derecho;79;Derecho;A veces;Nunca;167;19
+Femenino;18.5;18;Derecho;76;Derecho;Nunca;Ocasionalmente;NA;42
+Masculino;18.8;18.2;Derecho;78;Derecho;Con frecuencia;Nunca;180;18
+Femenino;17.1;17.5;Derecho;72;Derecho;Con frecuencia;Siempre;166.4;40
+Masculino;20.1;20;Derecho;70;Derecho;A veces;Nunca;180;17
+Masculino;18;19;Derecho;54;Ninguno;A veces;Regularmente;NA;18
+Masculino;22.2;21;Derecho;66;Derecho;Con frecuencia;Ocasionalmente;190;18
+Femenino;16;16.5;Derecho;NA;Derecho;A veces;Nunca;168;19
+Masculino;19.4;18.5;Derecho;72;Ninguno;Con frecuencia;Nunca;182.5;18
+Masculino;22;22;Derecho;80;Derecho;A veces;Nunca;185;36
+Masculino;19;19;Derecho;NA;Ninguno;Con frecuencia;Ocasionalmente;171;20
+Femenino;17.5;16;Derecho;NA;Derecho;A veces;Nunca;169;18
+Femenino;17.8;18;Derecho;72;Derecho;A veces;Nunca;154.94;17
+Masculino;NA;NA;Derecho;60;NA;A veces;Nunca;172;29
+Femenino;20.1;20.2;Derecho;80;Derecho;A veces;Nunca;176.5;18
+Femenino;13;13;NA;70;Izquierdo;Con frecuencia;Nunca;180.34;17
+Masculino;17;17.5;Derecho;NA;Ninguno;Con frecuencia;Nunca;180.34;19
+Masculino;23.2;22.7;Derecho;84;Izquierdo;Con frecuencia;Regularmente;180;19
+Masculino;22.5;23;Derecho;96;Derecho;Nunca;Nunca;170;19
+Femenino;18;17.6;Derecho;60;Derecho;A veces;Ocasionalmente;168;18
+Femenino;18;17.9;Derecho;50;Izquierdo;Nunca;Nunca;165;31
+Masculino;22;21.5;Izquierdo;55;Izquierdo;Con frecuencia;Nunca;200;19
+Masculino;20.5;20;Derecho;68;Derecho;Con frecuencia;Nunca;190;18
+Masculino;17;18;Derecho;78;Izquierdo;A veces;Nunca;170.18;18
+Masculino;20.5;19.5;Derecho;56;Derecho;Con frecuencia;Nunca;179;17
+Masculino;22.5;22.5;Derecho;65;Derecho;Con frecuencia;Regularmente;182;20
+Masculino;18.5;18.5;Derecho;NA;Ninguno;Con frecuencia;Nunca;171;18
+Femenino;15.5;15.4;Derecho;70;Ninguno;Nunca;Nunca;157.48;17
+Masculino;19.5;19.7;Derecho;72;Derecho;Con frecuencia;Nunca;NA;17
+Masculino;19.5;19;Derecho;62;Derecho;Con frecuencia;Nunca;177.8;18
+Masculino;20.6;21;Izquierdo;NA;Izquierdo;Con frecuencia;Ocasionalmente;175.26;18
+Masculino;22.8;23.2;Derecho;66;Ninguno;Con frecuencia;Nunca;187;20
+Femenino;18.5;18.2;Derecho;72;Ninguno;Con frecuencia;Nunca;167.64;17
+Femenino;19.6;19.7;Derecho;70;Derecho;Con frecuencia;Nunca;178;18
+Femenino;18.7;18;Izquierdo;NA;Izquierdo;Nunca;Nunca;170;20
+Femenino;17.3;18;Derecho;64;Ninguno;Con frecuencia;Nunca;164;19
+Masculino;19.5;19.8;Derecho;NA;Derecho;Con frecuencia;Nunca;183;18
+Femenino;19;19.1;Derecho;NA;Ninguno;Con frecuencia;Nunca;172;31
+Femenino;18.5;18;Derecho;64;Derecho;Con frecuencia;Nunca;NA;17
+Masculino;19;19;Derecho;NA;Derecho;A veces;Nunca;180;20
+Masculino;21;19.5;Derecho;80;Izquierdo;Nunca;NA;NA;18
+Femenino;18;17.5;Derecho;64;Izquierdo;Con frecuencia;Nunca;170;18
+Masculino;19.4;19.5;Derecho;NA;Derecho;Con frecuencia;Siempre;176;18
+Femenino;17;16.6;Derecho;68;Derecho;A veces;Nunca;171;18
+Femenino;16.5;17;Derecho;40;Izquierdo;Con frecuencia;Nunca;167.64;17
+Femenino;15.6;15.8;Derecho;88;Izquierdo;A veces;Nunca;165;18
+Femenino;17.5;17.5;Derecho;68;Derecho;Con frecuencia;Siempre;170;21
+Femenino;17;17.6;Derecho;76;Derecho;A veces;Nunca;165;24
+Femenino;18.6;18;Derecho;NA;Ninguno;Con frecuencia;Siempre;165.1;17
+Femenino;18.3;18.5;Derecho;68;Ninguno;A veces;Nunca;165.1;17
+Masculino;20;20.5;Derecho;NA;Derecho;Con frecuencia;Nunca;185.42;19
+Masculino;19.5;19.5;Izquierdo;66;Izquierdo;A veces;Nunca;NA;17
+Masculino;19.2;18.9;Derecho;76;Derecho;Con frecuencia;Nunca;176.5;20
+Femenino;17.5;17.5;Derecho;98;Izquierdo;Con frecuencia;Nunca;NA;18
+Femenino;17;17.4;Derecho;NA;Ninguno;A veces;Nunca;NA;17
+Masculino;23;23.5;Derecho;90;Derecho;Con frecuencia;Nunca;167.64;17
+Femenino;17.7;17;Derecho;76;Derecho;A veces;Nunca;167;17
+Femenino;18.2;18;Derecho;70;Derecho;A veces;Nunca;162.56;18
+Femenino;18.3;18.5;Derecho;75;Izquierdo;Con frecuencia;Nunca;170;19
+Masculino;18;18;Derecho;60;Derecho;Con frecuencia;Nunca;179;22
+Femenino;18;17.7;Izquierdo;92;Izquierdo;A veces;Nunca;NA;18
+Masculino;20.5;20;Derecho;75;Izquierdo;A veces;Nunca;183;20
+Femenino;17.5;18;Derecho;NA;Derecho;A veces;Nunca;NA;18
+Femenino;18.2;17.5;Derecho;70;Derecho;A veces;Nunca;165;20
+Femenino;18.2;18.5;Derecho;NA;Derecho;A veces;Nunca;168;17
+Masculino;21.3;20.8;Derecho;65;Derecho;Con frecuencia;Siempre;179;23
+Femenino;19;18.8;Derecho;NA;Derecho;A veces;Nunca;NA;17
+Masculino;20;19.5;Derecho;68;Ninguno;Con frecuencia;Regularmente;190;19
+Femenino;17.5;17.5;Derecho;60;Derecho;Con frecuencia;Nunca;166.5;23
+Masculino;19.5;19.4;Derecho;NA;Derecho;Con frecuencia;Nunca;165;18
+Femenino;19.4;19.6;Derecho;68;Ninguno;Con frecuencia;Nunca;175.26;19
+Masculino;21.9;22.2;Derecho;NA;Derecho;A veces;Nunca;187;19
+Masculino;18.9;19.1;Derecho;60;Ninguno;Nunca;Nunca;170;18
+Femenino;16;16;Derecho;NA;Derecho;A veces;Nunca;159;21
+Femenino;17.5;17.3;Derecho;72;Derecho;Con frecuencia;Nunca;175;20
+Femenino;17.5;17;Derecho;80;Izquierdo;A veces;Siempre;163;18
+Femenino;19.5;18.5;Derecho;80;Derecho;A veces;Nunca;170;18
+Femenino;16.2;16.4;Derecho;NA;Derecho;Con frecuencia;Ocasionalmente;172;17
+Femenino;17;15.9;Derecho;85;Derecho;Con frecuencia;Nunca;NA;19
+Masculino;17.5;17.5;Derecho;64;Ninguno;Con frecuencia;Nunca;180;19
+Masculino;19.7;20.1;Derecho;67;Izquierdo;A veces;Regularmente;180.34;18
+Femenino;18.5;18.5;Derecho;76;Izquierdo;Con frecuencia;Nunca;175;24
+Masculino;19.2;19.6;Derecho;80;Derecho;Nunca;Nunca;190.5;18
+Femenino;17.2;16.7;Derecho;75;Derecho;Con frecuencia;Nunca;170.18;21
+Masculino;20.5;21;Derecho;60;Derecho;Con frecuencia;Nunca;185;18
+Femenino;16;15.5;Derecho;60;Izquierdo;Con frecuencia;Nunca;162.56;17
+Femenino;16.9;16;Derecho;70;Derecho;Nunca;Nunca;158;21
+Femenino;17;16.7;Derecho;70;Derecho;A veces;Nunca;159;23
+Masculino;23;22;Izquierdo;83;Izquierdo;A veces;Siempre;193.04;19
+Femenino;18.5;18;Izquierdo;100;Ninguno;A veces;Nunca;171;19
+Masculino;21;20.4;Derecho;100;Derecho;Con frecuencia;Siempre;184;20
+Masculino;20;20;Derecho;80;Ninguno;Con frecuencia;Ocasionalmente;NA;18
+Masculino;22.5;22.5;Derecho;76;Derecho;Con frecuencia;Ocasionalmente;177;18
+Femenino;18.5;18;Derecho;92;Derecho;Con frecuencia;Nunca;172;18
+Masculino;19.8;20;Izquierdo;59;Derecho;Con frecuencia;Nunca;180;17
+Masculino;18.5;18.1;Derecho;66;Izquierdo;Con frecuencia;Nunca;175.26;21
+Masculino;19.3;19.4;Derecho;NA;Derecho;Con frecuencia;Nunca;180.34;20
+Femenino;16;16;Derecho;68;Derecho;Con frecuencia;Nunca;172.72;18
+Masculino;18.8;19.1;Derecho;66;Ninguno;Con frecuencia;Regularmente;178.5;18
+Femenino;17.5;17;Derecho;74;Derecho;Con frecuencia;Nunca;157;18
+Femenino;16.4;16.5;Derecho;90;Derecho;A veces;Nunca;152;18
+Masculino;22;21.5;Derecho;86;Derecho;Con frecuencia;Nunca;187.96;20
+Masculino;19;19.5;Derecho;60;Derecho;A veces;Nunca;178;19
+Femenino;18.9;20;Derecho;86;Derecho;A veces;Nunca;NA;19
+Femenino;15.4;16.4;Izquierdo;80;Izquierdo;Con frecuencia;Ocasionalmente;160.02;19
+Masculino;17.9;17.8;Derecho;85;Izquierdo;A veces;Nunca;175.26;18
+Masculino;23.1;22.5;Derecho;90;Derecho;A veces;Regularmente;189;19
+NA;19.8;19;Izquierdo;73;Ninguno;Con frecuencia;Nunca;172;22
+Masculino;22;22;Derecho;72;Derecho;Con frecuencia;Nunca;182.88;19
+Masculino;20;19.5;Derecho;NA;Derecho;Con frecuencia;Nunca;170;21
+Femenino;19.5;18.5;Derecho;68;Derecho;Nunca;Nunca;167;19
+Femenino;18;18.6;Derecho;84;Derecho;A veces;Nunca;175;18
+Femenino;18.3;19;Derecho;NA;Derecho;Nunca;Nunca;165;21
+Femenino;19;18.8;Derecho;65;Derecho;Con frecuencia;Nunca;172.72;17
+Masculino;21.4;21;Derecho;96;Ninguno;A veces;Nunca;180;19
+Femenino;20;19.5;Izquierdo;68;Ninguno;Con frecuencia;Nunca;172;19
+Masculino;18.5;18.5;Derecho;75;Ninguno;A veces;Nunca;185;19
+Masculino;22.5;22.6;Derecho;64;Derecho;Con frecuencia;Regularmente;187.96;23
+Masculino;19.5;20.2;Derecho;60;Ninguno;Con frecuencia;Nunca;185.42;33
+Femenino;18;18;Derecho;92;Ninguno;Con frecuencia;Nunca;165;20
+Femenino;18;18.5;Derecho;64;Ninguno;Con frecuencia;Nunca;164;20
+Masculino;21.8;22.3;Derecho;76;Izquierdo;Con frecuencia;Nunca;195;26
+Femenino;13;12.5;Derecho;80;Derecho;Con frecuencia;Nunca;165;18
+Femenino;16.3;16.2;Derecho;92;Derecho;A veces;Regularmente;152.4;24
+Masculino;21.5;21.6;Derecho;69;Derecho;Con frecuencia;Nunca;172.72;70
+Masculino;18.9;19.1;Derecho;68;Derecho;Nunca;Nunca;180.34;44
+Masculino;20.5;20;Derecho;76;Derecho;Con frecuencia;Nunca;173;24
+Masculino;14;15.5;Derecho;NA;Ninguno;Con frecuencia;Siempre;NA;21
+Femenino;18.9;19.2;Derecho;74;Derecho;A veces;Nunca;167.64;44
+Masculino;20;20.5;Derecho;NA;Derecho;Nunca;Nunca;187.96;20
+Masculino;18.5;19;Derecho;84;Derecho;Con frecuencia;Regularmente;187;18
+Femenino;17.5;17.1;Derecho;80;Izquierdo;Nunca;Nunca;167;18
+Masculino;18.1;18.2;Izquierdo;NA;Derecho;A veces;Nunca;168;21
+Masculino;20.2;20.3;Derecho;72;Ninguno;A veces;Nunca;191.8;18
+Femenino;16.5;16.9;Derecho;60;Ninguno;Con frecuencia;Ocasionalmente;169.2;29
+Masculino;19.1;19.1;Derecho;NA;Derecho;A veces;Nunca;177;20
+Femenino;17.6;17.2;Derecho;81;Izquierdo;A veces;Nunca;168;19
+Femenino;19.5;19.2;Derecho;70;Derecho;A veces;Nunca;170;18
+Femenino;16.5;15;Derecho;65;Derecho;A veces;Regularmente;160.02;33
+Masculino;19;18.5;Derecho;NA;Ninguno;Con frecuencia;Nunca;189;17
+Masculino;19;18.5;Derecho;72;Derecho;Con frecuencia;Nunca;180.34;17
+Femenino;16.5;17;Derecho;NA;Derecho;A veces;Nunca;168;73
+Masculino;20.5;19.5;Izquierdo;80;Derecho;A veces;Ocasionalmente;182.88;19
+Femenino;15.5;15.5;Derecho;50;Derecho;A veces;Regularmente;NA;19
+Femenino;18;17.5;Derecho;48;Ninguno;Con frecuencia;Nunca;165;19
+Femenino;17.5;18;Derecho;68;Ninguno;Con frecuencia;Nunca;157.48;18
+Femenino;19;18.5;Izquierdo;104;Izquierdo;Con frecuencia;Nunca;170;17
+Masculino;20.5;20.5;Derecho;76;Derecho;Con frecuencia;Regularmente;172.72;37
+Femenino;16.7;17;Derecho;84;Izquierdo;Con frecuencia;Nunca;164;23
+Femenino;20.5;20.5;Derecho;NA;Izquierdo;Con frecuencia;Regularmente;NA;19
+Femenino;17;16.5;Derecho;70;Derecho;A veces;Nunca;162.56;17
+Masculino;19;19.5;Derecho;68;Derecho;Con frecuencia;Ocasionalmente;172;23
+Femenino;14;13.5;Derecho;87;Ninguno;Con frecuencia;Ocasionalmente;165.1;17
+Femenino;17.5;17.6;Derecho;79;Derecho;A veces;Nunca;162.5;17
+Masculino;18.5;19;Derecho;70;Izquierdo;Con frecuencia;Nunca;170;24
+Masculino;18;18.5;Derecho;90;Derecho;A veces;Nunca;175;19
+Masculino;20.5;20.7;Derecho;72;Derecho;A veces;Nunca;168;21
+Femenino;17;17;Derecho;79;Derecho;A veces;Nunca;163;25
+Masculino;18.5;18.5;Derecho;65;Derecho;Nunca;Nunca;165;19
+Masculino;18;18.5;Derecho;62;Derecho;Con frecuencia;Nunca;173;20
+Masculino;18.5;18;Derecho;63;Ninguno;Con frecuencia;Nunca;196;20
+Masculino;20;19.5;Derecho;92;Derecho;A veces;Nunca;179.1;19
+Masculino;22;22.5;Derecho;60;Derecho;A veces;Nunca;180;27
+Masculino;17.9;18.4;Derecho;68;Izquierdo;Nunca;Ocasionalmente;176;19
+Femenino;17.6;17.8;Derecho;72;Izquierdo;A veces;Nunca;160.02;17
+Femenino;16.7;15.1;Derecho;NA;Derecho;Nunca;Nunca;157.48;18
+Femenino;17;17.6;Derecho;76;Derecho;A veces;Nunca;165;27
+Femenino;15;13;Derecho;80;Ninguno;Con frecuencia;Nunca;170.18;17
+Masculino;16;15.5;Derecho;71;Derecho;Con frecuencia;Nunca;154.94;17
+Femenino;19.1;19;Derecho;80;Derecho;A veces;Ocasionalmente;170;19
+Femenino;17.5;16.5;Derecho;80;Ninguno;A veces;Nunca;164;18
+Femenino;16.2;15.8;Derecho;61;Derecho;A veces;Ocasionalmente;167;19
+Masculino;21;21;Derecho;48;Ninguno;Con frecuencia;Nunca;174;21
+Femenino;18.8;17.8;Derecho;76;Derecho;A veces;Nunca;NA;19
+Femenino;18.5;18;Derecho;86;Derecho;Nunca;Nunca;160;20
+Masculino;17;17.5;Derecho;80;Derecho;A veces;Regularmente;179.1;19
+Femenino;17.5;17;Derecho;83;Ninguno;Con frecuencia;Ocasionalmente;168;17
+Femenino;17.5;17.6;Derecho;76;Derecho;A veces;Nunca;153.5;17
+Masculino;17.5;17.6;Derecho;84;Derecho;A veces;Nunca;160;19
+Masculino;17.5;17;Izquierdo;97;Ninguno;Nunca;Nunca;165;20
+Femenino;20.8;20.7;Derecho;NA;Ninguno;Con frecuencia;Nunca;171.5;19
+Femenino;18.6;18.6;Derecho;74;Derecho;A veces;Nunca;160;17
+Femenino;17.5;17.5;Izquierdo;83;Ninguno;A veces;Nunca;163;17
+Masculino;18;18.5;Derecho;78;Derecho;Con frecuencia;Nunca;NA;18
+Masculino;17;17.5;Derecho;65;Derecho;A veces;Nunca;165;20
+Femenino;18;17.8;Derecho;68;Derecho;A veces;Nunca;168.9;17
+Masculino;19.5;20;Derecho;NA;Derecho;A veces;Nunca;170;21
+Femenino;16.3;16.2;Derecho;NA;Derecho;Nunca;Nunca;NA;19
+Masculino;18.2;19.8;Derecho;88;Derecho;Con frecuencia;Nunca;185;19
+Femenino;17;17.3;Derecho;NA;Ninguno;Con frecuencia;Nunca;173;19
+Masculino;23.2;23.2;Derecho;75;Derecho;Con frecuencia;Nunca;188;19
+Masculino;23.2;23.3;Derecho;NA;Derecho;Nunca;Siempre;171;21
+Femenino;15.9;16.5;Derecho;70;Derecho;Con frecuencia;Nunca;167.64;17
+Femenino;17.5;18.4;Derecho;88;Derecho;A veces;Nunca;162.56;18
+Femenino;17.5;17.6;Derecho;NA;Derecho;Con frecuencia;Nunca;150;21
+Femenino;17.6;17.2;Derecho;NA;Derecho;A veces;Nunca;NA;20
+Femenino;17.5;17.8;Derecho;96;Derecho;A veces;Nunca;NA;19
+Femenino;18.8;18.3;Derecho;80;Derecho;A veces;Siempre;170.18;18
+Masculino;20;19.8;Derecho;68;Derecho;Con frecuencia;Nunca;185;17
+Femenino;18.6;18.8;Derecho;70;Derecho;Con frecuencia;Regularmente;167;20
+Masculino;18.6;19.6;Derecho;71;Derecho;Con frecuencia;Ocasionalmente;185;19
+Femenino;18.8;18.5;Derecho;80;Derecho;A veces;Nunca;169;18
+Masculino;18;16;Derecho;NA;Derecho;A veces;Nunca;180.34;21
+Femenino;18;18;Derecho;85;Derecho;A veces;Nunca;165.1;18
+Femenino;18.5;18;Derecho;88;Derecho;A veces;Nunca;160;17
+Femenino;17.5;16.5;Derecho;NA;Derecho;A veces;Nunca;170;19
+Masculino;21;21.5;Derecho;90;Derecho;A veces;Nunca;183;17
+Femenino;17.6;17.3;Derecho;85;Derecho;Con frecuencia;Nunca;168.5;18
